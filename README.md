@@ -1,4 +1,6 @@
 
+![Banner](https://i.imgur.com/Yy49g2G.png)
+
 # Zombie Clicker
 **:warning: Please do not make suggestions in the issues section! If you want to suggest something then [tweet me](https://twitter.com/Incrementing/)**
 
