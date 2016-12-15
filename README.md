@@ -12,6 +12,10 @@ You can download the newest, or older, APKs from this GitHub repo but please be 
 - [ ] Make the app look good?
 - [ ] Learn how to use the Android SDK and stop guessing based on Java knowledge?
 
+## Credis
+*Developer* - Me, James... I did all the horrible development.<br>
+*Graphics* - Davis Studios (@DavisDauk) made all of the graphics used in the game.<br>
+*Sounds* - The sounds were created by a mystery man who only wishes to be called **J-O-E**.
 
 ## License
 The Zombie Clicker app and it's assests are **not** open-source.<br>
