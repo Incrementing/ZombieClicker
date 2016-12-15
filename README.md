@@ -14,7 +14,7 @@ You can download the newest, or older, APKs from this GitHub repo but please be 
 
 ## Credis
 **Developer** - Me, James... I did all the horrible development.<br>
-**Graphics** - Davis Studios (@DavisDauk) made all of the graphics used in the game.<br>
+**Graphics** - Davis Studios [(@DavisDauk)](https://github.com/DavisDauk/) made all of the graphics used in the game.<br>
 **Sounds** - The sounds were created by a mystery man who only wishes to be called *J-O-E*.
 
 ## License
