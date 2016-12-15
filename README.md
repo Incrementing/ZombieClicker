@@ -7,7 +7,7 @@ Welcome to Zombie Clicker, the totally original clicker game.
 Issues may be reported [here](https://github.com/Incrementing/ZombieClicker/issues)!
 
 ## To-do List
-- [X] Put the game on the app store [(here)](https://play.google.com/store/apps/details?id=pw.incrementing.zombieclickerplay
+- [X] Put the game on the Play Store [(here)](https://play.google.com/store/apps/details?id=pw.incrementing.zombieclickerplay
 - [ ] Make the app look good?
 - [ ] Learn how to use the Android SDK and stop guessing based on Java knowledge?
 
