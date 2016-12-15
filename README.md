@@ -5,6 +5,7 @@
 ## Introduction
 Welcome to Zombie Clicker, the totally original clicker game.
 Issues may be reported [here](https://github.com/Incrementing/ZombieClicker/issues)!
+You can download the newest, or older, APKs from this GitHub repo but please be aware that some versions of the APK might not have been uploaded to Google Play. 'Game Breaking' APKs will be removed.
 
 ## To-do List
 - [X] Put the game on the Play Store [(Done, It's here)](https://play.google.com/store/apps/details?id=pw.incrementing.zombieclicker).
